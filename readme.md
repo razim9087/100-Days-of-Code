@@ -1,1 +1,1 @@
-Repository for My 100 days of Code jouney.
+Repository for my #100DaysofCode jouney with Python.
